@@ -27,21 +27,9 @@ O site simula a página de uma escola, contendo informações como metodologia d
   <img src="img/preview.jpeg" width="600">
 </p>
 
-## 🚀 Como visualizar o projeto
+## 🌐 Visualização do Projeto
 
-1. Baixe ou clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-
-2. Abra o arquivo:
-
-   ```
-   index.html
-   ```
-
-3. Visualize diretamente no navegador.
+🔗 [Clique aqui para acessar o site](https://suaescola.netlify.app)
 
 ## 📚 Aprendizados
 
